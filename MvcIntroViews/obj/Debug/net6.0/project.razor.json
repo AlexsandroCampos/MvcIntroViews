@@ -16303,8 +16303,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\MvcIntroViews\\MvcIntroViews\\Views\\Operacoes\\Dividir.cshtml",
+      "TargetPath": "Views\\Operacoes\\Dividir.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\MvcIntroViews\\MvcIntroViews\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\MvcIntroViews\\MvcIntroViews\\Views\\Operacoes\\ResultadoDivisao.cshtml",
+      "TargetPath": "Views\\Operacoes\\ResultadoDivisao.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16313,8 +16323,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\MvcIntroViews\\MvcIntroViews\\Views\\Operacoes\\Multiplicar.cshtml",
+      "TargetPath": "Views\\Operacoes\\Multiplicar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\MvcIntroViews\\MvcIntroViews\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alexs\\OneDrive\\Documentos\\3° ano\\MvcIntroViews\\MvcIntroViews\\Views\\Operacoes\\ResultadoMultiplicacao.cshtml",
+      "TargetPath": "Views\\Operacoes\\ResultadoMultiplicacao.cshtml",
       "FileKind": "mvc"
     },
     {
